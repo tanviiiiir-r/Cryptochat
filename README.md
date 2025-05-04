@@ -27,7 +27,7 @@
 
 ## 🧠 Installation (macOS App)
 
-1. Download the latest `.app` release from [Releases](https://github.com/yourusername/cryptochat/releases)
+1. Download the latest `.app` release from [Releases](https://github.com/yourusername/cryptochat/dist)
 2. Move it to your `/Applications` folder
 3. Double-click to launch
 

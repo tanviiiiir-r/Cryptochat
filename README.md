@@ -1,5 +1,5 @@
 # 🔐 Cryptochat – Secure Messaging App (macOS, Python, PyQt5)
-
+[![CI](https://github.com/tanviiiiir-r/Cryptochat/actions/workflows/ci.yml/badge.svg)](https://github.com/tanviiiiir-r/Cryptochat/actions) [![License](https://img.shields.io/github/license/tanviiiiir-r/Cryptochat?style=flat)](https://github.com/tanviiiiir-r/Cryptochat/blob/main/LICENSE)
 **Cryptochat** is a standalone macOS secure messaging application built with **Python** and **PyQt5**, designed with real-world cryptographic principles. It demonstrates hybrid encryption, GUI-based communication, message expiry, and secure self-destruction — all packed into a native `.app`.
 
 > 🧠 Built as a portfolio project for Erasmus+ and cybersecurity career development.
@@ -134,3 +134,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
+
+## 📦 License
+MIT © 2026 Tanvir Rana
